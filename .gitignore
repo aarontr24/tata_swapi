@@ -1,0 +1,10 @@
+
+node_modules/
+jspm_packages
+
+# Serverless directories
+.serverless
+
+# variables
+variables.env
+secrets.js
