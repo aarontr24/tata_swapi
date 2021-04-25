@@ -7,4 +7,4 @@ jspm_packages
 
 # variables
 variables.env
-secrets.js
+secrets.json
